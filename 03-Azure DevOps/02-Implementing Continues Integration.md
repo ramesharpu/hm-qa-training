@@ -1,6 +1,6 @@
 # DevOps Training Content
 
-# Module 2: Azure Pipelines & CI Implementation
+# Azure Pipelines & CI Implementation
 
 ---
 

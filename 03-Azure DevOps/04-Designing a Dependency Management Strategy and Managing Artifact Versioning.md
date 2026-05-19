@@ -1,6 +1,6 @@
 # DevOps Training Content
 
-# Module 4: Package Management, Artifacts & Security
+# Package Management, Artifacts & Security
 
 ---
 

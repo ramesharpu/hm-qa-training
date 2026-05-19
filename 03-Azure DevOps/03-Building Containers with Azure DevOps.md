@@ -1,6 +1,6 @@
 # DevOps Training Content
 
-# Module 3: Containers, Orchestration & Kubernetes
+# Containers, Orchestration & Kubernetes
 
 ---
 

@@ -1,6 +1,6 @@
 # DevOps Training Content
 
-## Module 1: Foundations of Azure & Azure DevOps
+## Foundations of Azure & Azure DevOps
 
 ---
 
